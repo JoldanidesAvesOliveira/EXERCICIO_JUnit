@@ -26,7 +26,7 @@
  ## Executando Teste Calculadora
 
   Com o ambiente preparado, começamos criando um classe chamada (Calculadora) na pasta (test\java\com\example), depois criamos um metodo (calc) com dois parâmetros que vai fazer a multiplicação de dois numeros e retorna o valor da multiplicação. 
-  Em seguida criamos outra classe chamada (CalculadoraTest), para que possamos criar e instanciar o objeto (Calculadora) e em seguida manipular as variaveis da classe (Calculadora). E em seguida podemos começar nosso teste,criando uma notação (@test) em seguida criamos um metodo (mult), com um (assertEquals) que vai verificar se o valor de retorno da multiplicação é o valor esperado. 
+  Em seguida criamos outra classe chamada (CalculadoraTest), para que possamos criar e instanciar o objeto (Calculadora) e em seguida manipular as variaveis da classe (Calculadora). E em seguida podemos começar nosso teste, criando uma notação (@test) em seguida criamos um metodo (mult), com um (assertEquals) que vai verificar se o valor de retorno da multiplicação é o valor esperado. 
 
  ## Contribuiçoes:
 
